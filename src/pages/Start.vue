@@ -9,7 +9,6 @@
           placeholder="npm package name"
           type="search"
           name="search"
-          v-model="package"
         />
         <button class="Search__button" @click="requestData">Find</button>
       </div>

@@ -4,7 +4,7 @@ export default {
   extends: Line,
   props: {
     chartData: {
-      type: Array | Object,
+      type: Array,
       required: false
     },
     chartLabels: {

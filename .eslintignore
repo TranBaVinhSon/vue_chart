@@ -2,3 +2,14 @@
 /config/
 /dist/
 /*.js
+
+!**/.eslintrc*
+node_modules*
+dist
+*.svg
+*.ico
+*.json
+.gitignore
+*.md
+*.log
+*.lock
